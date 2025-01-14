@@ -7,10 +7,10 @@ import (
 	"io"
 	"os"
 
-	cs "github.com/hotnops/gTunnel/grpc/client"
-	"github.com/segmentio/ksuid"
+	cs "github.com/warferik/gTunnel/grpc/client"
+	"github.com/warferik/ksuid"
 
-	"github.com/hotnops/gTunnel/common"
+	"github.com/warferik/gTunnel/common"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
