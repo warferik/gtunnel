@@ -27,7 +27,7 @@ func GenerateClient(
 		return err
 	}
 
-	outputPath := fmt.Sprintf("/output/%s", outputFile)
+	outputPath := fmt.Sprintf("/opt/gtunnel/%s", outputFile)
 	tokenOutputPath := outputPath + ".token"
 
 	tokenFile, err := os.Create(tokenOutputPath)
