@@ -5,7 +5,7 @@ import (
 	"net"
 	"sync"
 
-	cs "github.com/hotnops/gTunnel/grpc/client"
+	cs "github.com/warferik/gTunnel/grpc/client"
 	"github.com/segmentio/ksuid"
 )
 
