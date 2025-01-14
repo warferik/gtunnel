@@ -7,8 +7,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/hotnops/gTunnel/common"
-	cs "github.com/hotnops/gTunnel/grpc/client"
+	"github.com/warferik/gTunnel/common"
+	cs "github.com/warferik/gTunnel/grpc/client"
 	"google.golang.org/grpc"
 )
 
