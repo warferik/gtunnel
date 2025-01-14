@@ -1,12 +1,12 @@
-module github.com/hotnops/gTunnel
+module github.com/warferik/gTunnel
 
 go 1.20
 
 require (
 	github.com/fangdingjun/socks-go v0.0.0-20220901073602-f35f0e0139ec
 	github.com/go-redis/redis/v8 v8.11.5
-	github.com/olekukonko/tablewriter v0.0.5
-	github.com/segmentio/ksuid v1.0.4
+	github.com/warferik/tablewriter v0.0.5
+	github.com/warferik/ksuid v1.0.4
 	google.golang.org/grpc v1.54.0
 	google.golang.org/protobuf v1.30.0
 )
