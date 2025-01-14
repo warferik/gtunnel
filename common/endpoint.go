@@ -1,7 +1,7 @@
 package common
 
 import (
-	cs "github.com/hotnops/gTunnel/grpc/client"
+	cs "github.com/warferik/gTunnel/grpc/client"
 )
 
 type ByteStream interface {
