@@ -12,9 +12,9 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/hotnops/gTunnel/common"
-	as "github.com/hotnops/gTunnel/grpc/admin"
-	"github.com/olekukonko/tablewriter"
+	"github.com/warferik/gTunnel/common"
+	as "github.com/warferik/gTunnel/grpc/admin"
+	"github.com/warferik/tablewriter"
 	"google.golang.org/grpc"
 )
 
