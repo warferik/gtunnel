@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hotnops/gTunnel/gserver/gserverlib"
+	"github.com/warferik/gTunnel/gserver/gserverlib"
 )
 
 var (
