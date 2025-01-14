@@ -5,7 +5,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/fangdingjun/socks-go"
+	"github.com/warferik/socks-go"
 )
 
 // SocksServer is a structure that handles starting and stopping
