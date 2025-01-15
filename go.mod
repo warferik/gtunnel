@@ -3,7 +3,7 @@ module github.com/warferik/gTunnel
 go 1.20
 
 require (
-	github.com/warferik/socks-go v0.0.0-20220901073602-f35f0e0139ec
+	github.com/warferik/socks-go v1.0.0
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/warferik/tablewriter v0.0.5
 	github.com/warferik/ksuid v1.0.4
