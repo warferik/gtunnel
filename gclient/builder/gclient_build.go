@@ -7,7 +7,7 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/hotnops/gTunnel/common"
+	"github.com/warferik/gTunnel/common"
 	"golang.org/x/exp/slices"
 )
 
